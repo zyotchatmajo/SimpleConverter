@@ -1,0 +1,11 @@
+int main(){
+        float sueldo; 
+
+printf("Ingresa el sueldo");
+scanf("%f",&sueldo);
+        
+        if(sueldo>3000){
+printf("Debes pagar impuestos");
+        }
+    }
+}
